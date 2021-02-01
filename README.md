@@ -6,7 +6,11 @@ everything was made with Js
 Functionality: 
 
 -smooth scroll to different sections
+
 -lazy load of images
+
 -revealing of sections as soon they intersecting with window
+
 -tab functionality
+
 -slider functionality;
