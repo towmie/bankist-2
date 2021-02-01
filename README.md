@@ -9,4 +9,4 @@ Functionality:
 -lazy load of images
 -revealing of sections as soon they intersecting with window
 -tab functionality
--slider functionality
+-slider functionality;
